@@ -17,11 +17,14 @@ mahdiehkaramdoost
 #فناوری و ابزار های پیشنهادی
 -زبان برنامه نویسی :python
 -فریم ورک پیشنهادی :react/bjango/laravel
-
+-پایگاه داده:mysql
 
 #مستندات 
--https://reactjs.org/docs/getting-started.html
--https://reactjs.org/tutorial/tutorial.html
+
+-[تحلیل نیازمندی ها ](docs/requirements.md)
+-[موارد کاربرد و سناریوها](docs/use_cases.md)
+-[طراحی سیستم ](docs/architecture.md)
+
 #برنامه زمانبندی 
 فاز1-تحلیل و نیاز سنجی (هفته 4تا6)
 فاز2-طراحی (هفته 7تا9)
